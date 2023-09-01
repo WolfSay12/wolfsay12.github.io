@@ -1,1 +1,1 @@
-                                      Node.js/Disocrd.js
+                                      Node.js/Discord.js
